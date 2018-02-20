@@ -208,7 +208,7 @@ def spellcheck(word,library):
 
 
 
-allword = open("words.txt","r")
+allword = open("morewords.txt","r")
 
 loword = [line.split(',') and line.replace("\n","") for line in allword.readlines()]
 
