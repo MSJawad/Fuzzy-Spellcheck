@@ -180,7 +180,7 @@ def spellcheck(word,library):
 
     for x in third_choice:
 
-        if (edit_distance(word,x) == 2):
+        if (edit_distance(word,x) == 3):
             output.append(x)
 
 
