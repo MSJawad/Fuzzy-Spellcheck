@@ -16,9 +16,15 @@ download the file, place in the same directory and change line 211 to be the nam
 improvements could be an AI layer that predicts the most likeliest of picks based on
 user data
 
+## Author
+Mohammad Solaiman Jawad
 
 ## Language(s)
 Python
+
+## License
+This project is protected by the MIT License
+
 
 *All types of criticism appreciated. Further improvements (AI layer for prediction, N-gram) can and 
 will be made*
